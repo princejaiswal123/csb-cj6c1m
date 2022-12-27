@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://princejaiswal123.github.io/csb-cj6c1m/static/css/main.08a2d726.chunk.css",
+    "main.js": "https://princejaiswal123.github.io/csb-cj6c1m/static/js/main.367a2679.chunk.js",
+    "main.js.map": "https://princejaiswal123.github.io/csb-cj6c1m/static/js/main.367a2679.chunk.js.map",
+    "runtime-main.js": "https://princejaiswal123.github.io/csb-cj6c1m/static/js/runtime-main.ba4f448a.js",
+    "runtime-main.js.map": "https://princejaiswal123.github.io/csb-cj6c1m/static/js/runtime-main.ba4f448a.js.map",
+    "static/js/2.f1de9ad2.chunk.js": "https://princejaiswal123.github.io/csb-cj6c1m/static/js/2.f1de9ad2.chunk.js",
+    "static/js/2.f1de9ad2.chunk.js.map": "https://princejaiswal123.github.io/csb-cj6c1m/static/js/2.f1de9ad2.chunk.js.map",
+    "index.html": "https://princejaiswal123.github.io/csb-cj6c1m/index.html",
+    "static/css/main.08a2d726.chunk.css.map": "https://princejaiswal123.github.io/csb-cj6c1m/static/css/main.08a2d726.chunk.css.map",
+    "static/js/2.f1de9ad2.chunk.js.LICENSE.txt": "https://princejaiswal123.github.io/csb-cj6c1m/static/js/2.f1de9ad2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba4f448a.js",
+    "static/js/2.f1de9ad2.chunk.js",
+    "static/css/main.08a2d726.chunk.css",
+    "static/js/main.367a2679.chunk.js"
+  ]
+}
